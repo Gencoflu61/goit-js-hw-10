@@ -82,3 +82,4 @@ startBtn.addEventListener('click', () => {
     secondsSpan.textContent = addLeadingZero(seconds);
   }, 1000);
 });
+ 
